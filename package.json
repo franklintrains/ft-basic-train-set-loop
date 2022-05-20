@@ -1,0 +1,28 @@
+{
+  "name": "small-layout-template",
+  "version": "1.0.0",
+  "description": "Franklin Trains Small Layout repository template",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "templates": "templates"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklintrains/small-layout-template.git"
+  },
+  "keywords": [
+    "Franklin Trains",
+    "O gauge",
+    "027 gauge"
+  ],
+  "author": "codingChewie",
+  "license": "Read LICENSE",
+  "bugs": {
+    "url": "https://github.com/franklintrains/small-layout-template/issues"
+  },
+  "homepage": "https://github.com/franklintrains/small-layout-template#readme"
+}

@@ -1,0 +1,77 @@
+[{
+		"id": "crossovers",
+		"value": null,
+		"type": [
+			true,
+			false
+		]
+	},
+	{
+		"id": "switchCount",
+		"value": null,
+		"type": "integer"
+	},
+	{
+		"id": "smallestCurve",
+		"value": null,
+		"type": [
+			"none",
+			25,
+			30,
+			"048",
+			48,
+			58,
+			"084",
+			"096"
+		]
+	},
+	{
+		"id": "trackBrand",
+		"value": null,
+		"type": [
+			"fasttrack",
+			"tubular",
+			"atlas",
+			"gargraves",
+			"ross"
+		]
+	},
+	{
+		"id": "width",
+		"value": null,
+		"type": [
+			6,
+			7,
+			8,
+			9,
+			10
+		]
+	},
+	{
+		"id": "height",
+		"value": null,
+		"type": [
+			3,
+			4,
+			5
+		]
+	},
+	{
+		"id": "elevated",
+		"value": null,
+		"type": [
+			true,
+			false
+		]
+	},
+	{
+		"id": "siding",
+		"value": null,
+		"type": "integer"
+	},
+	{
+		"id": "mainLines",
+		"value": null,
+		"type": "integer"
+	}
+]

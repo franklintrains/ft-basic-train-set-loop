@@ -1,0 +1,54 @@
+## File is automatically generated
+---
+- id: crossovers
+  value:
+  type:
+    - true
+    - false
+- id: switchCount
+  value:
+  type: integer
+- id: smallestCurve
+  value:
+  type:
+    - none
+    - 031
+    - 036
+    - 048
+    - 060
+    - 072
+    - 084
+    - 096
+- id: trackBrand
+  value:
+  type:
+    - fasttrack
+    - tubular
+    - atlas
+    - gargraves
+    - ross
+- id: width
+  value:
+  type:
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+- id: height
+  value:
+  type:
+    - 3
+    - 4
+    - 5
+- id: elevated
+  value:
+  type:
+    - true
+    - false
+- id: siding
+  value:
+  type: integer
+- id: mainLines
+  value:
+  type: integer

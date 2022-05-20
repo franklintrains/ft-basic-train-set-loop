@@ -1,0 +1,7 @@
+# metadata.json
+
+## Location
+
+```
+
+```
